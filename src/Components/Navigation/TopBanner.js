@@ -10,7 +10,7 @@ export default function TopBanner() {
       <div className="row">
         <div className="col-lg-3">
           <FontAwesomeIcon icon={faPhone} className="top-banner-icon" />
-          +0199999999
+          +es un proyecto para aprender react no  es una tienda
         </div>
         <div className="col-lg-3">
           <FontAwesomeIcon icon={faEnvelope} className="top-banner-icon" />
